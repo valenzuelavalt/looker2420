@@ -1,5 +1,5 @@
 ---
-- dashboard: giuu
+- dashboard: test
   title: giuu
   layout: newspaper
   description: ''
