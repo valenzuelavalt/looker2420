@@ -1,6 +1,6 @@
 ---
-- dashboard: long_columns
-  title: Long columns
+- dashboard: giuu
+  title: giuu
   layout: newspaper
   description: ''
   preferred_viewer: dashboards-next
