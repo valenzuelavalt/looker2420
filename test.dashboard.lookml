@@ -3,7 +3,7 @@
   title: Long columns
   layout: newspaper
   description: ''
-  preferred_viewer: dashboards
+  preferred_viewer: dashboards-next
   preferred_slug: 59Kswp4qF4NwnB59ensBNg
   elements:
   - title: Untitled
