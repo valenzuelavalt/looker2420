@@ -25,6 +25,14 @@ view: order_items {
     type: string
     sql: ${TABLE}.phones ;;
   }
+  measure: median1 {
+    type: median
+    sql: ${order_id} ;;
+  }
+  measure: median2 {
+    type: median
+    sql: ${sale_price} ;;
+  }
   dimension_group: returned {
     type: time
     timeframes: [raw, time, date, week, month, quarter, year]

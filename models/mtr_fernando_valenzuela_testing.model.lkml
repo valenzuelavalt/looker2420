@@ -25,7 +25,7 @@ explore: billion_orders {
   }
 }
 
-explore: bud {}
+explore: pdt{}
 
 explore: budget {}
 
@@ -260,7 +260,7 @@ explore: test {}
 
 explore: testing_blob {}
 
-explore: testing_blob_type {}
+
 
 explore: test_bit {}
 

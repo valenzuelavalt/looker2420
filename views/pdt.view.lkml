@@ -1,4 +1,4 @@
-view: bud {
+view: pdt {
   sql_table_name: demo_db.bud ;;
   drill_fields: [id]
 
