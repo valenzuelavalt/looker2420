@@ -1,6 +1,7 @@
 view: countries {
   sql_table_name: demo_db.Countries ;;
 
+
   dimension: binary_value {
     type: string
     sql: ${TABLE}.binary_value ;;
